@@ -6,7 +6,10 @@
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
 - 🌱 I’m currently learning **MERN Stack.**
-
+## GITHUB PROFILE TROPHY 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=duytaovo&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
 
 ## 📫 How to reach me:
 
